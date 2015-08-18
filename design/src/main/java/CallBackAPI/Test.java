@@ -3,7 +3,7 @@ package CallBackAPI;
 /**
  * 测试类
  * @author xiaanming
- *
+ * http://blog.csdn.net/xiaanming/article/details/8703708
  */
 public class Test {
 	public static void main(String[]args){
