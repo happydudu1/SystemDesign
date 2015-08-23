@@ -1,3 +1,12 @@
+/*
+You have a list of words with ranking. 
+Now you need to create a function that will take this list as input 
+and provide a way so that a T9 keyboard can provide three top results of probable words
+based on rankings for the numbers punched in.
+
+
+*/
+
 // Implement a T9 Dictionary
 import java.io.FileReader;
 import java.io.BufferedReader;
